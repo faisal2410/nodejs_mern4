@@ -1,7 +1,17 @@
+// const http = require('http');
+
 // console.log("Hello from nodejs")
-// console.log("PROCESS: ",process)
-// const http=require('http');
+// console.log("PROCESS: ", process)
+// console.log("======>",require)
 // const helpers=require("./helpers")
+
+// const server = http.createServer((req, res) => {
+    
+//     res.end("Test updated")
+    
+// })
+
+// server.listen(8000)
 
 // const server=http.createServer((req,res)=>{
 // res.end("Hello world from nodejs")
@@ -19,6 +29,7 @@ const fs=require('fs');
 const fileName="target.txt";
 
 // fs.watch(fileName,()=>console.log("File changed"))
+
 // const data=fs.readFileSync(fileName);
 // console.log(data.toString())
 
@@ -29,6 +40,14 @@ const fileName="target.txt";
 //         console.log(data.toString())
 //     }
 
+// })
+
+// fs.readFile(fileName, (err, data) => {
+//     if (err) {
+//         console.log(err)
+//     } else {
+//         console.log(data.toString())
+//     }
 // })
 
 

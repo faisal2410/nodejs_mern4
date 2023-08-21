@@ -4,6 +4,8 @@
 
 // https://github.com/faisal2410/node-bootcamp
 
+// https://github.com/faisal2410/Nodejs-Tutorials
+
 
 // https://v8.dev/
 
@@ -15,3 +17,12 @@
 
 
 // lib, src, v8, uv
+
+// Node REPL Read, Evaluate, Print, Loop
+
+// window.open("http://127.0.0.1:8000")
+
+// document.querySelector("body").style.backgroundColor="red"
+
+
+
